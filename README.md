@@ -283,6 +283,10 @@ The final solution connects **customer behavior, retention, product engagement, 
 Rather than treating each dashboard as an isolated report, the project demonstrates how multiple business functions can be analyzed together to support SaaS growth, customer retention, marketing efficiency, and strategic decision-making.
 
 ---
+## 📸 Dashboard Preview
+
+### Executive Overview
+<img width="1485" height="852" alt="SAAS custoer and marketing analytics" src="https://github.com/user-attachments/assets/2cb8ff1b-6803-4488-a6e0-b25382f25891" />
 
 ## 👩‍💻 Author
 
