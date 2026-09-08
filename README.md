@@ -288,6 +288,19 @@ Rather than treating each dashboard as an isolated report, the project demonstra
 ### Executive Overview
 <img width="1485" height="852" alt="SAAS custoer and marketing analytics" src="https://github.com/user-attachments/assets/2cb8ff1b-6803-4488-a6e0-b25382f25891" />
 
+### Customer Analysis
+<img width="1486" height="852" alt="customrt analysis" src="https://github.com/user-attachments/assets/b3a0d463-a6ec-49e8-ab74-4517b33a73a0" />
+
+### Customer Engagement Analysis
+<img width="1482" height="841" alt="customer angagement analysis" src="https://github.com/user-attachments/assets/b2dab0f9-7cdf-4d3b-9139-47303123eae6" />
+
+### Marketing Campaign Performance
+<img width="1482" height="848" alt="Marketing performance analyis" src="https://github.com/user-attachments/assets/dd4cb1d4-4dbd-4c8a-bafb-8a73e2026ff0" />
+
+### Competitor Analysis
+<img width="1473" height="850" alt="competitior analysis" src="https://github.com/user-attachments/assets/2b2f31c2-a9f9-4a40-87fb-117556c13221" />
+
+
 ## 👩‍💻 Author
 
 **Sejal Telang**  
